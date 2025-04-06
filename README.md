@@ -23,4 +23,4 @@
 
 <h2>Personal Testing Projects:</h2>
 <b> - Wikipedia Twitter Bot (Selenium Chromedriver Project)</b>
-<div> - A bot that gets a random wikipedia article title and first sentence and posts to twitter (https://github.com/joshmadakor1/Algorithms-Practice)</div>
+<div> - A bot that gets a random wikipedia article title and first sentence and posts to twitter (https://github.com/ChrisAdrion/WikiXbot)</div>
