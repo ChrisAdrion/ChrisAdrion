@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chris! <br/><a href="https://github.com/ChrisAdrion">Junior Test Engineer</a>
 
 <h2>Professional Experience:</h2>
-<b> - 3-GIS Quality Assurance Engineer Jan 2023 - Present</b>
+<h3> - 3-GIS Quality Assurance Engineer Jan 2023 - Present</h3>
 <div> - Maintained API testing codebase via postman an automated runs via Jenkins</div>
 <div> - Assisted in automation with selenium using java</div> 
 <div> - Managed, updated and maintained large regression testing documents</div>
@@ -11,7 +11,7 @@
 <div> - Update and maintain testing environments</div>
 <div> - Create and manage JIRA bug tickets</div>
 
-<b> - Bizowie Business Analyst Jul 2021 - Nov 2022</b>
+<h3> - Bizowie Business Analyst Jul 2021 - Nov 2022</h3>
 <div> - Provide application and system support</div>
 <div> - Facilitate communication between our product and development team regarding business & technology initiatives </div>
 <div> - Produced and edited user training videos </div>
@@ -22,17 +22,5 @@
 
 
 <h2>Personal Testing Projects:</h2>
-- <b> Wikipedia Twitter Bot (Selenium Chromedriver Project)</b>
-  - [A bot that gets a random wikipedia article title and first sentence and posts to twitter](https://github.com/joshmadakor1/Algorithms-Practice)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b> - Wikipedia Twitter Bot (Selenium Chromedriver Project)</b>
+<div> - A bot that gets a random wikipedia article title and first sentence and posts to twitter (https://github.com/joshmadakor1/Algorithms-Practice)</div>
